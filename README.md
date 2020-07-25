@@ -6,5 +6,5 @@ This is a test to describe something into a new brnach to make changes.
 * Graph
 ![Parent Categories](C:\Users\danib\OneDrive\Documents\Data Analytics\Class Folder\Crowdfunding Analysis) 
 ---
--[data starterbook]
+- [data starterbook]
 (C:/Users/danib/OneDrive/Documents/Data Analytics/Class Folder/Crowdfunding Analysis)
