@@ -18,10 +18,10 @@ This is a test to describe something into a new brnach to make changes.
 
 ![Test Graph](test.png)
 
+---
+#### Prior test of Screenshot worked
 
 ---
-## Prior test of svrrrnshot worked
+## Another example of screenshot
 
----
-### Another example of screenshot
-
+![2nd Test](test2.png)
