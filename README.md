@@ -11,4 +11,4 @@ This is a test to describe something into a new brnach to make changes.
 ---
 Parent Categories.png
 ---
-[Chart] (/Resources/Outcomes_vs_Goals.png)
+![Chart] (Resources/Outcomes_vs_Goals.png)
