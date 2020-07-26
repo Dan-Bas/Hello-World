@@ -24,4 +24,4 @@ This is a test to describe something into a new brnach to make changes.
 ---
 ## Another example of screenshot
 
-![2nd Test](test2.png)
+![2nd Test](Test/test2.png)
